@@ -34,3 +34,7 @@ da árvore, como os dados associados, os nós pai e filhos, bem como informaçõ
 **Estoque:**
 
 --> A classe Estoque é responsável por representar informações sobre produtos em estoque.
+
+**AVLTest1:**
+
+--> Classe principal para testar o funcionamento das classes.
